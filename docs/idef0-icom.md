@@ -1,5 +1,3 @@
-# vinicius-missao-test-Software
-
 Sistema de Cadastro — Especificação e Base
 Linguagem: Java (Maven)
 Persistência: arquivo único JSON (data/cadastro.json)
