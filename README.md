@@ -47,4 +47,8 @@ ________________________________________
 - O: Mensagem ao usuário / lista
   Dica: Desenhe as caixas A1..A4 com as setas I/C/O/M seguindo a notação IDEF0.
 
-![diagrama.png](..%2F..%2F..%2Fdiagrama.png)
+![diagrama](img/diagrama.png)
+
+
+
+![diagramauml](img/diagramauml.png.jpeg)
