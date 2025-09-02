@@ -47,8 +47,8 @@ ________________________________________
 - O: Mensagem ao usuário / lista
   Dica: Desenhe as caixas A1..A4 com as setas I/C/O/M seguindo a notação IDEF0.
 
-![diagrama](img/[diagrama terca.jpg)
+![diagrama](img/diagrama%20terca.jpg)
 
 
 
-![diagramauml](img/diagramauml.png.jpeg)
+![diagramauml](img/diagrmacasodeusoeditar%20-%20Copia.jpg)
